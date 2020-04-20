@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "325672464963",
+    "firebase_url": "https://storm-gazer.firebaseio.com",
+    "project_id": "storm-gazer",
+    "storage_bucket": "storm-gazer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325672464963:android:da72b9bc4fdd9cacba1af6",
+        "android_client_info": {
+          "package_name": "com.geeksaxis.stormgaze01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325672464963-m7r1jc5scmo1qo1pk2f715m6lsa39k30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geeksaxis.stormgaze01",
+            "certificate_hash": "fbe3f7cbbcf8b1e324152f520146200ebdbd2e70"
+          }
+        },
+        {
+          "client_id": "325672464963-m242urdeucemk4ao8mjesunppsm2d8pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7-Amwk2mkuasQj9_Vt6vi8-gmwrqOtxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325672464963-m242urdeucemk4ao8mjesunppsm2d8pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
